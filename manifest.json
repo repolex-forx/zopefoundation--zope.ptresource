@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "zopefoundation",
+  "repo": "zope.ptresource",
+  "versions": [
+    {
+      "commit": "1ca955c954279d4e6863ad0098ba2048c2c81938",
+      "parsed_at": "2026-11-06T01:30:36.261871+00:00",
+      "filetree": "filetree/1ca955c954279d4e6863ad0098ba2048c2c81938.nq.gz",
+      "blobs": [
+        "blob/015389853bbf316c3a8e2847d4168c0362f0b84b.nq.gz",
+        "blob/e7b4fd9feb91e261c85b5a1a9db2dcdc482096c2.nq.gz",
+        "blob/cfec5c9ab5c4943cd501ee55b132f62dbb3ee428.nq.gz",
+        "blob/12edc3e20c8bcec708ecbd279b0107cb4ef1ee3f.nq.gz",
+        "blob/90f82b07f129220d66d2737a7a9d006a412dc469.nq.gz",
+        "blob/e1f9ad7b3b48377bfbfaa1b380c384ddea24060f.nq.gz",
+        "blob/79859e06010bf4967c5b4b044afea6ef39742938.nq.gz",
+        "blob/c5508b9f083362a81185d598327e7801d837cb18.nq.gz",
+        "blob/b828f41877e58b12d9f21109fa7506dd32bdb387.nq.gz",
+        "blob/e999faee760ab19141cb907b98f0b377beda79ed.nq.gz",
+        "blob/ff77ae62e5f620bc7cd67b23c157a050bd380320.nq.gz",
+        "blob/ccdedc28073a0ba8303c52c91284a4e7e70bb471.nq.gz",
+        "blob/a26875774f4a7d88efa3587300ad79423260f896.nq.gz",
+        "blob/add2483b340ce80c1d58ff2abf840658cd79c478.nq.gz",
+        "blob/064a6fe195889fa90a73621206818352aaa69608.nq.gz",
+        "blob/84f380081c7317b29e5ce125064d5a04998f33e7.nq.gz",
+        "blob/3f9a228ac81bfc11cfef773b56451335cdb618fd.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/085520c0c4af563701b828cefe5a8f7ed798f34e.nq.gz",
+        "blob/0ab12fe1e0c8eb6cb0d68fce1b14a2209cdb0def.nq.gz",
+        "blob/1f321f52abb7db6f79c285bab56e2852dc575699.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
