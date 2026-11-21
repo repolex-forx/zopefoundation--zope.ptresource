@@ -3,6 +3,11 @@
   "repo": "zope.ptresource",
   "versions": [
     {
+      "commit": "a0a40f011f5631749417ebd79fb3423c9153bf95",
+      "tag": "6.0",
+      "parsed_at": "2026-11-21T23:44:46.516893+00:00"
+    },
+    {
       "commit": "1ca955c954279d4e6863ad0098ba2048c2c81938",
       "tag": "",
       "parsed_at": "2026-11-06T01:32:10.960233+00:00"
